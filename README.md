@@ -33,6 +33,4 @@
 <img src="https://github.com/SHELTER-ZONE/3D-Project0-Server-Map/blob/master/SamplePreview/proladon-2019-07-23-13-51-19.jpg">
 
 ## 專案詳細說明與任何規定請閱： [專案 WIKI](https://github.com/SHELTER-ZONE/3D-Project-0/wiki)
-### [專案階段](https://github.com/SHELTER-ZONE/3D-Project-0/wiki/%E5%B0%88%E6%A1%88%E9%9A%8E%E6%AE%B5)
-### [專案生命](https://github.com/SHELTER-ZONE/3D-Project-0/wiki/%E5%B0%88%E6%A1%88%E7%94%9F%E5%91%BD)
-### [限制與標準](https://github.com/SHELTER-ZONE/3D-Project-0/wiki/%E9%99%90%E5%88%B6%E8%88%87%E6%A8%99%E6%BA%96)
+## 專案Stage Road Map 與現況：[專案 Road Map](https://github.com/SHELTER-ZONE/3D-Project0-Server-Map/projects/1)
