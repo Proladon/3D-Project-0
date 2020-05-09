@@ -23,7 +23,7 @@
 
 [示例影片](https://vimeo.com/user115041691/review/416594544/24e2d511b8)
 
-![image](https://github.com/SHELTER-ZONE/3D-Project0-Server-Map/blob/master/Sample Preview/2020-05-09 14 41 39.png)
+![image](https://github.com/SHELTER-ZONE/3D-Project0-Server-Map/blob/master/SamplePreview/preview01.png)
 
 
 ## 專案詳細說明與任何規定請閱： [專案 WIKI](https://github.com/SHELTER-ZONE/3D-Project-0/wiki)
