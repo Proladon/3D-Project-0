@@ -20,7 +20,11 @@
 ## Simple Sample Preivew
 基本上大概呈現就是這樣，使用者能用 1rd / 3rd 的視角實際體驗模型空間。
 (因為我不是3D專業的，也是第一次用Unreal Rngine 4，我只能做到這個地步的Sample，請見諒)
-![img](https://vimeo.com/user115041691/review/416594544/24e2d511b8)
+
+[示例影片](https://vimeo.com/user115041691/review/416594544/24e2d511b8)
+
+![image](https://github.com/SHELTER-ZONE/3D-Project0-Server-Map/blob/master/Sample Preview/2020-05-09 14 41 39.png)
+
 
 ## 專案詳細說明與任何規定請閱： [專案 WIKI](https://github.com/SHELTER-ZONE/3D-Project-0/wiki)
 ### [專案階段](https://github.com/SHELTER-ZONE/3D-Project-0/wiki/%E5%B0%88%E6%A1%88%E9%9A%8E%E6%AE%B5)
