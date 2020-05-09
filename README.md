@@ -18,7 +18,7 @@
 最後也是以此專案致敬 SHELTER ZONE。
 
 ## Simple Sample Preivew
-基本上大概呈現就是這樣，使用者能用 1rd / 3rd 的視角實際體驗模型空間。
+基本上大概呈現就是這樣，使用者能用 1rd / 3rd 的視角實際體驗模型空間。<br>
 (因為我不是3D專業的，也是第一次用Unreal Rngine 4，我只能做到這個地步的Sample，請見諒)
 
 ### [示例影片](https://vimeo.com/user115041691/review/416594544/24e2d511b8)
