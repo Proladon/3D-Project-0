@@ -1,4 +1,8 @@
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+
+![image](https://img.shields.io/badge/CurrentStage-Stage1-blue)
+![image](https://img.shields.io/badge/Status-Preparing-ff69b4)
+
 # SHELTER ZONE | 3D-Project-0
 <img src="https://upload.cc/i1/2019/11/19/WwHIZS.gif" width=114.5>
 
